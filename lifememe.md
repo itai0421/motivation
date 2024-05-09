@@ -1,0 +1,20 @@
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <div class="poster">
+    <img class="motivation-img" src="./assets/images/life.jpg" src="lifeisajoke" />
+    <h1>Once you realize that life is a joke </h1>
+    <p>Laugh is important for your health </p>
+  </div>
+</body>
+
+</html>
