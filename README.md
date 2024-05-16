@@ -1,7 +1,7 @@
 <h1> this is motivation project</h1>
 html code in main.html
 css code in main.css
-<a href="main.html">
+<a href="html/main.html">
 <img src="assets/images/main.png">
 </a><br>
 <a href="babylake.md">baby or lake?</a><br>
