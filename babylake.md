@@ -13,7 +13,7 @@
 <body>
 
   <div class="poster">
-    <img class="motivation-img" src="./assets/images/bebe-illusion.jpg" src="lakeorbaby" />
+    <img class="motivation-img" src="./assets/images/baby-illusion.jpg" src="lakeorbaby" />
     <h1>It is important to look at things from several angles</h1>
     <p>What did you see first the baby or the lake? </p>
   </div>
