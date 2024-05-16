@@ -1,22 +1,4 @@
-
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="style.css" />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
-</head>
-
-<body>
-
-  <div class="poster">
-    <img class="motivation-img" src="./assets/images/baby-illusion.jpg" src="lakeorbaby" />
-    <h1>It is important to look at things from several angles</h1>
-    <p>What did you see first the baby or the lake? </p>
-  </div>
-</body>
-
-</html>
+html code in tiger.html
+css code in style.css
+<a href="html/tiger.html">
+<img src="assets/images/tigertrick.png"></a>
